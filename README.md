@@ -28,8 +28,7 @@ Então, sejam todos benvindos!
 
 ### Ferramentas
 
-- Tutoriais:
-  - [Hive](https://github.com/lserra/hde/blob/master/README.md)
+- [Hive](https://github.com/lserra/hde/blob/master/README.md)
 
 ### Lições Aprendidas
 
