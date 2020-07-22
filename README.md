@@ -26,12 +26,12 @@ E claro ... você também poderá dar a sua contribuição.
 
 Então, sejam todos benvindos!
 
-## Ferramentas
+### Ferramentas
 
 - Tutoriais:
-  - Hive
+  - [Hive](https://github.com/lserra/hde/blob/master/README.md)
 
-## Lições Aprendidas
+### Lições Aprendidas
 
 
 
