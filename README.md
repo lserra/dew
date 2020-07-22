@@ -1,6 +1,7 @@
 # Data Engineer @ Work
 
 Atualmente, existe muito conteúdo e iniciativas voltadas para Data Science, em especial para Machine Learning, etc.
+
 Com comunidades bem estruturadas e membros ativos, compartilhando conhecimento e experiências.
 E muito pouco ou quase nada sobre Data Engineering.
 
