@@ -28,11 +28,11 @@ E claro ... você também poderá dar a sua contribuição.
 
 Então, sejam todos benvindos!
 
-### Ferramentas
+### Tools
 
 - [Hive](https://github.com/lserra/hde/blob/master/README.md)
 
-### Lições Aprendidas
+### Lessons Learned
 
 
 
