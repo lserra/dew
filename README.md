@@ -30,6 +30,7 @@ Então, sejam todos benvindos!
 
 ### Tools
 
+- [Linux]()
 - [Hive](https://github.com/lserra/hde/blob/master/README.md)
 
 ### Lessons Learned
