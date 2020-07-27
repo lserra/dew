@@ -12,7 +12,7 @@ Mas, o que fazer, eis a questão?
 
 E então, sem qualquer pretensão ou ideia de futuro, enquanto a ideia não surgia, eu resolvi começar a registrar diariamente as minhas atividades e as minhas lições aprendidas como Engenheiro de Dados.
 
-No início foi bastante difícil, construir esta rotina e adquirir este hábito. Mas, depois de um certo tempo, como eu disse, esta atividade pessoal passou a ser um hábito. E isso acabou me ajudando muito em meu crescimento profissional.
+No início foi bastante difícil, construir esta rotina. Mas, depois de um certo tempo, esta atividade pessoal se tornou um hábito. E isso acabou me ajudando muito em meu crescimento profissional.
 
 Bem ... o fato é que já são quase quatro anos fazendo estes registros. E eu percebi que tem muita coisa legal!
 
